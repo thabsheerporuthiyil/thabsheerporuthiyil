@@ -31,7 +31,7 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 
 <br>
 
-## Technologies & Tools 
+## 💠Technologies & Tools 
 <div>
 
 <table>
