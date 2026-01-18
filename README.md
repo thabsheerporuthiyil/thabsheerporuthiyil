@@ -30,7 +30,8 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 </ul>
 
 <br>
-## 🛠 Technologies & Tools 
+
+## Technologies & Tools 
 <div align="center">
 
 <table>
