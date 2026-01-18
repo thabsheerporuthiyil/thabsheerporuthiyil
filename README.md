@@ -32,7 +32,7 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 <br>
 
 ## Technologies & Tools 
-<div align="center">
+<div>
 
 <table>
   <tr>
