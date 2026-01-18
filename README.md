@@ -41,7 +41,6 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
   </tr>
