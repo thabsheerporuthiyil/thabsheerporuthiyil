@@ -19,3 +19,6 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 
 <h3>🧪 What I brew in my dev lab</h3>
 <h4><b>Seamless RESTful APIs</b> that just work.</h4>
+<h4><b>Dynamic & Responsive UIs</b> for a better user experience.</h4>
+<h4><b>Robust Backends</b> using Django & Python.</h4>
+<h4><b>Database Optimization</b> with PostgreSQL.</h4>
