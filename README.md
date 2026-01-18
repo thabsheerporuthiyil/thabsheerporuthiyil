@@ -20,7 +20,7 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 
 <br>
 
-<h4>What I brew in my dev lab:</h4>
+<h4>The Dev Workbench:</h4>
 <ul>
 <li><b>Seamless RESTful APIs</b> that just work.<br></li>
 <li><b>Dynamic & Responsive UIs</b> for a better user experience.<br></li>
