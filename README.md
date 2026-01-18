@@ -28,3 +28,6 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 <li><b>Database Optimization</b> with PostgreSQL.</li>
 <li><b>Cloud-ready deployments</b> with Docker, Vercel, AWS, and CI/CD</li>
 </ul>
+
+<br>
+## 🛠 Technologies & Tools 
