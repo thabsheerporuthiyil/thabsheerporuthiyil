@@ -15,7 +15,7 @@
 </div>
 <br>
 
-<h3>👤 About Me</h3>
+##👤 About Me
 Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into clean, scalable, and high-performance web applications. I blend the reliability of <b>Django & DRF</b>, the interactivity of <b>React</b>, and the speed of <b>Python</b> to build modern solutions that perform flawlessly in the real world.
 
 <br>
