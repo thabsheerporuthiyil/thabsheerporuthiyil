@@ -8,7 +8,8 @@
   <a href="https://thabsheeeeer.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
   <a href="https://www.instagram.com/thabsheeeeer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
+<br>
 
 <h3>About Me</h3>
-Hey everyone! I'm a **Full Stack Developer** who turns complex ideas into clean, scalable, and high-performance web applications. I blend the reliability of **Django & DRF**, the interactivity of **React**, and the speed of **Python** to build modern solutions that perform flawlessly in the real world.
+Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into clean, scalable, and high-performance web applications. I blend the reliability of <b>Django & DRF</b>, the interactivity of <b>React</b>, and the speed of <b>Python</b> to build modern solutions that perform flawlessly in the real world.
 
