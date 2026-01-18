@@ -51,6 +51,7 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br><b>SQLite</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swagger" width="55" /><br><b>Swagger</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
