@@ -8,6 +8,8 @@
   <a href="https://thabsheeeeer.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
   <a href="https://www.instagram.com/thabsheeeeer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
+
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -20,10 +22,11 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 <br>
 <br>
 
-<h3>🧪 What I brew in my dev lab</h3>
+<h4>🧪 What I brew in my dev lab</h4>
 <ul>
 <li><b>Seamless RESTful APIs</b> that just work.<br></li>
 <li><b>Dynamic & Responsive UIs</b> for a better user experience.<br></li>
 <li><b>Robust Backends</b> using Django & Python.<br></li>
 <li><b>Database Optimization</b> with PostgreSQL.</li>
+<li><b>Cloud-ready deployments</b> with Docker, Vercel, AWS, and CI/CD</li>
 </ul>
