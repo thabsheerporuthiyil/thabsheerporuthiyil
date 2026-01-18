@@ -17,5 +17,5 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 <br>
 <br>
 
-<h3>What I brew in my dev lab</h3>
-<h6><b>Seamless RESTful APIs</b> that just work.</h6>
+<h3>🧪 What I brew in my dev lab</h3>
+<h4><b>Seamless RESTful APIs</b> that just work.</h4>
