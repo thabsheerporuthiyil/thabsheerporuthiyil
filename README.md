@@ -24,7 +24,7 @@ Hey everyone! I'm a <b>Full Stack Developer</b> who turns complex ideas into cle
 <ul>
 <li><b>Seamless RESTful APIs</b> that just work.<br></li>
 <li><b>Dynamic & Responsive UIs</b> for a better user experience.<br></li>
-<li><b>Robust Backends</b> using Django & Python.<br></li>
+<li><b>Robust Backends</b> using Django, FastAPI & Python.<br></li>
 <li><b>Database Optimization</b> with PostgreSQL.</li>
 <li><b>Cloud-ready deployments</b> with Docker, Vercel, AWS, and CI/CD</li>
 </ul>
